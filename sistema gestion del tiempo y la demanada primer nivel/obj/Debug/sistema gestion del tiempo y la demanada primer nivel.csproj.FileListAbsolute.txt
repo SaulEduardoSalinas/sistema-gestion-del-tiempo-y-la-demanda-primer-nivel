@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\obj\Debug\sistema gestion del tiempo y la demanada primer nivel.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\obj\Debug\sistema_gestion_del_tiempo_y_la_demanada_primer_nivel.Properties.Resources.resources
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\obj\Debug\sistema gestion del tiempo y la demanada primer nivel.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\obj\Debug\sistema gestion del tiempo y la demanada primer nivel.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\obj\Debug\sistema_gestion_del_tiempo_y_la_demanada_primer_nivel.Form1.resources
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\bin\Debug\sistema gestion del tiempo y la demanada primer nivel.exe.config
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\bin\Debug\sistema gestion del tiempo y la demanada primer nivel.exe
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\bin\Debug\sistema gestion del tiempo y la demanada primer nivel.pdb
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\obj\Debug\sistema gestion del tiempo y la demanada primer nivel.exe
+C:\Users\HP\source\repos\sistema gestion del tiempo y la demanada primer nivel\obj\Debug\sistema gestion del tiempo y la demanada primer nivel.pdb
